@@ -25,10 +25,10 @@
 <p align="left">
 <a href="https://discord.com/users/852951211958992896" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white">
  <a href="https://www.instagram.com/takmaoyuncuqwe/?hl=trs" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://github.com/TakmaOyuncu44" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/FearlessHazretleri" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Tospik35" alt="Flicker" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Fearless" alt="Fearless" /> </p>
 
 <h3 align="center">GitHub İstatistiğim :</h3>
 <p align="center">
-<a href="https://github.com/TakmaOyuncu44/" target="_blank"><img alt="sup seal gif" src="https://github-readme-stats.vercel.app/api?username=qjVortex&theme=dark&show_icons=true&count_private=true&hide_border=true" /></a><br>
+<a href="https://github.com/FearlessHazretleri/" target="_blank"><img alt="sup seal gif" src="https://github-readme-stats.vercel.app/api?username=Fearless&theme=dark&show_icons=true&count_private=true&hide_border=true" /></a><br>
