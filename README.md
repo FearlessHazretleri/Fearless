@@ -31,4 +31,4 @@
 
 <h3 align="center">GitHub İstatistiğim :</h3>
 <p align="center">
-<a href="https://github.com/LuciferHazretleri/" target="_blank"><img alt="sup seal gif" src="https://github-readme-stats.vercel.app/api?username=FearlessHazretleri&theme=dark&show_icons=true&count_private=true&hide_border=true" /></a><br>
+<a href="https://github.com/LuciferHazretleri/" target="_blank"><img alt="sup seal gif" src="https://github-readme-stats.vercel.app/api?username=LuciferHazretleri&theme=dark&show_icons=true&count_private=true&hide_border=true" /></a><br>
